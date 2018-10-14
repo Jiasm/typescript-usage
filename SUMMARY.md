@@ -1,9 +1,9 @@
 # Summary
 
-* [Introduction](README.md)
-* [Ch1](ch1/README.md)
-    * [Sec1.1](ch1/sec1.1.md)
-    * [Sec1.2](ch1/sec1.2.md)
-* [Ch2](ch2/README.md)
-    * [Sec2.1](ch2/sec2.1.md)
+* [Hello World](README.md)
+* [使用TypeScript](使用TypeScript/README.md)
+    * [tsconfig](使用TypeScript/tsconfig.md)
+    * [tsc与ts-node](使用TypeScript/tsc与ts-node.md)
+    * [第一个TS脚本](使用TypeScript/第一个TS脚本.md)
+    * [理解TS的作用](使用TypeScript/理解TS的作用.md)
 

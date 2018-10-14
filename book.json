@@ -1,10 +1,20 @@
 {
   "plugins": [
-    "disqus"
+    "disqus",
+    "prism",
+    "-highlight",
+    "atoc"
   ],
   "pluginsConfig": {
     "disqus": {
-      "shortName": "jiashunming"
+      "shortName": "jiashunming",
+      "css": [
+        "prismjs/themes/prism-coy.css"
+      ]
+    },
+    "atoc": {
+      "addClass": true,
+      "className": "atoc"
     }
   }
 }
